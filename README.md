@@ -59,4 +59,4 @@ These layers help in extracting important features from images.
 In conclusion, this project demonstrates the effective use of deep learning and TensorFlow for image classification tasks. It highlights the importance of CNNs in computer vision and provides a practical implementation for classifying fruits and vegetables. The project can be further enhanced by using larger datasets, advanced architectures, and real-time deployment using web or mobile applications.
 
 # OUTPUT
-[["C:\Users\HP\OneDrive\Pictures\images\Apple.jpg"]("C:\Users\HP\OneDrive\Pictures\images\Apple.jpg")
+
