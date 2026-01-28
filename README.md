@@ -11,7 +11,7 @@
 
 *MENTOR*:NEELA SANTHOSH
 
-My project is Implement a Deep Learning Model for Image Classification using Tensorflow.
+
 # Image Classification Using Deep Learning and TensorFlow
 
 ## Project Overview
