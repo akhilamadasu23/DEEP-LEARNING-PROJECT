@@ -32,7 +32,8 @@ The dataset consists of images of various fruits and vegetables such as:
 - Potato
 - Carrot
 - And more
-The dataset is divided into:
+- 
+## The dataset is divided into:
 - Training set:
 - During the training phase, the model learns from labeled images using supervised learning techniques. Data augmentation techniques such as rotation, flipping, zooming, and shifting were applied to improve the    model’s generalization ability and reduce overfitting. 
 - Validation set:
@@ -54,4 +55,5 @@ The model is based on a Convolutional Neural Network (CNN) and includes:
 - Fully Connected Dense Layers
 - Softmax Output Layer
 These layers help in extracting important features from images.
+
 In conclusion, this project demonstrates the effective use of deep learning and TensorFlow for image classification tasks. It highlights the importance of CNNs in computer vision and provides a practical implementation for classifying fruits and vegetables. The project can be further enhanced by using larger datasets, advanced architectures, and real-time deployment using web or mobile applications.
